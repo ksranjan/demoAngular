@@ -1,4 +1,4 @@
-package com.example.demo.models;
+package com.example.demoapp.models;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import org.hibernate.validator.constraints.NotBlank;
 import org.springframework.data.annotation.Id;
